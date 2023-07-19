@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LETTER3
+  - BOTTOMLETTER
+  - GRABLETTER3
+  - COMELETTER
+  - COMELETTERINHAND
+  - GRABOBJECT
+  - OBJECT
+  - PEACH
+  - BOTTOMOBJECT
+  - GRABPEACH
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - EditOnly
+  - Edit+Default
+  - NoEdit
+  - NoEdit+NoEditOnly
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
