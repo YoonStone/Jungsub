@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{0960e18e-d984-dbec-b284-e21cd8d8fc42}</ProjectGuid>
+    <ProjectGuid>{af199daa-3fea-997d-c749-cf8701c223eb}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -22,7 +22,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE;UNITY_2020_3_20;UNITY_2020_3;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;UNITY_ANALYTICS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;PLATFORM_STANDALONE;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_4_6;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;UNITY_POST_PROCESSING_STACK_V2;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;NET_STANDARD_2_0</DefineConstants>
+    <DefineConstants>DEBUG;TRACE;UNITY_2020_3_20;UNITY_2020_3;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;UNITY_ANALYTICS;USE_SEARCH_ENGINE_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;PLATFORM_STANDALONE;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_4_6;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;UNITY_POST_PROCESSING_STACK_V2;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;NET_STANDARD_2_0</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169</NoWarn>
@@ -36,101 +36,83 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Cc\BGCcTrsEditor.cs" />
-     <Compile Include="Assets\1. YG\Oculus\Platform\Editor\OculusPlatformSettingsEditor.cs" />
-     <Compile Include="Assets\1. YG\Oculus\AudioManager\Scripts\Audio\Editor\AudioImportPostProcessor.cs" />
-     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Curve\BGCurveEditorPointsSelection.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Utils\BGPrivateField.cs" />
-     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Utils\BGEditorUtility.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Overlay\BGSceneViewOverlay.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Curve\BGCurvePointComponentDrawer.cs" />
-     <Compile Include="Assets\1. YG\Oculus\LipSync\Editor\OVRLipSyncContextMorphTargetEditor.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\OVROverlayCanvas\Editor\OVROverlayCanvasEditor.cs" />
+     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Curve\BGCurveEditorSettings.cs" />
+     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Cc\BGCcVisualizationLineRendererEditor.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Editor\BuildSamples.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Editor\OculusSampleFrameworkUtil.cs" />
+     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Cc\BGCcSweep2DEditor.cs" />
+     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Cc\BGCcCursorObjectRotateEditor.cs" />
+     <Compile Include="Assets\2. ART_0_Hospital\06_Assets\LightRays2D\Editor\LightRays2DEditor.cs" />
+     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\CcInfra\BGCcAddWindow.cs" />
+     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Curve\BGRectangularSelection.cs" />
+     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Infra\BGCurvePainterGizmo.cs" />
+     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Cc\BGCcCursorDrawer.cs" />
+     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Curve\BGCurveEditorComponents.cs" />
+     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Cc\BGCcCursorObjectEditor.cs" />
+     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Utils\BGTableView.cs" />
+     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Curve\BGCurveEditorPoints.cs" />
+     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Curve\BGCurveEditor.cs" />
+     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Cc\BGCcMathEditor.cs" />
+     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\CcInfra\BGCcTreeView.cs" />
+     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Infra\BGPropertyDrawer.cs" />
+     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Overlay\BGSceneViewOverlayMenu.cs" />
+     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Overlay\BGSceneViewOverlayPointAddSnap2D.cs" />
+     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Curve\BGCurveEditorPoint.cs" />
+     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\CcInfra\BGCcEditor.cs" />
+     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Cc\BGCcCursorEditor.cs" />
+     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Curve\BGNewPointPositionManager.cs" />
+     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Cc\BGCcTrsEditor.cs" />
+     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Curve\BGCurveEditorPointsSelection.cs" />
+     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Utils\BGEditorUtility.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Curve\BGCurvePointGOEditor.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Overlay\BGSceneViewOverlayMenuSelection.cs" />
-     <Compile Include="Assets\1. YG\Oculus\Spatializer\editor\ONSPAudioPluginUpdater.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Settings\BGCurveSettingsOperations.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Cc\BGCcCursorChangeLinearEditor.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Infra\BGTransformMonitor.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Settings\BGCurveSettingsForEditor.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Gradle\Editor\Utils.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Infra\BGChoseComponentWindow.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Infra\BGCurveChosePointWindow.cs" />
-     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Curve\BGCurveEditorSettings.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Cc\BGCcSplitterPolylineEditor.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Curve\BGCurveEditorTab.cs" />
-     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Cc\BGCcVisualizationLineRendererEditor.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Settings\BGAbstractSettingsForEditor.cs" />
      <Compile Include="Assets\2. ART_4_House\05_Assets\BlackfireStudio\Winter\Editor\Image Effects\FrostEditor.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Infra\BGHandlesSettingsDrawer.cs" />
      <Compile Include="Assets\2. ART_0_Hospital\06_Assets\VLights\Editor\VolumeLightAbout.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Utils\BGEditorIcon.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Curve\BGCurveEditorFields.cs" />
-     <Compile Include="Assets\1. YG\Oculus\SampleFramework\Editor\OculusSampleFrameworkUtil.cs" />
-     <Compile Include="Assets\1. YG\Oculus\SampleFramework\Editor\BuildAssetPackages.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Editor\BuildAssetPackages.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Overlay\BGSceneViewOverlayPointInsert.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Overlay\BGSceneViewOverlayPointAdd.cs" />
-     <Compile Include="Assets\1. YG\Oculus\Platform\Editor\GUIHelper.cs" />
-     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Cc\BGCcSweep2DEditor.cs" />
-     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Cc\BGCcCursorObjectRotateEditor.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Utils\BGTransition.cs" />
-     <Compile Include="Assets\1. YG\Oculus\AudioManager\Scripts\Utils\Editor\DrawerInspectorNote.cs" />
-     <Compile Include="Assets\1. YG\Oculus\Spatializer\editor\ONSPAudioSourceEditor.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Overlay\BGSceneViewOverlayMenuPoint.cs" />
-     <Compile Include="Assets\2. ART_0_Hospital\06_Assets\LightRays2D\Editor\LightRays2DEditor.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Overlay\BGSceneViewOverlayPointAddSnap3D.cs" />
-     <Compile Include="Assets\1. YG\Oculus\Platform\Editor\OculusStandalonePlatformResponse.cs" />
      <Compile Include="Assets\2. ART_0_Hospital\06_Assets\VLights\Editor\VolumeLightSlicedBasedEditor.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Firebase\Editor\FirebaseEnabler.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Cc\BGCcCursorObjectScaleEditor.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Overlay\BGPopupMenu.cs" />
-     <Compile Include="Assets\1. YG\Oculus\Platform\Editor\OculusPluginUpdaterStub.cs" />
-     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\CcInfra\BGCcAddWindow.cs" />
-     <Compile Include="Assets\1. YG\Oculus\AudioManager\Scripts\Audio\Editor\OSPPropsPropertyDrawer.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\CcInfra\BGCcChangeNameWindow.cs" />
-     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Curve\BGRectangularSelection.cs" />
-     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Infra\BGCurvePainterGizmo.cs" />
-     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Cc\BGCcCursorDrawer.cs" />
-     <Compile Include="Assets\1. YG\Oculus\LipSync\Editor\OVRLipSyncBuildPostProcessor.cs" />
-     <Compile Include="Assets\1. YG\Oculus\AudioManager\Scripts\Audio\Editor\SoundFXPropertyDrawer.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Overlay\BGSceneViewOverlayPointAddAtDistance.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Utils\BGBinaryResources.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Curve\BGCurveReferenceToPointEditor.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Overlay\BGOverlayMessage.cs" />
-     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Curve\BGCurveEditorComponents.cs" />
-     <Compile Include="Assets\1. YG\Oculus\AudioManager\Scripts\Audio\Editor\MinMaxPropertyDrawer.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Infra\BGCurvePainterHandles.cs" />
-     <Compile Include="Assets\1. YG\Oculus\Spatializer\editor\ONSPPropagationSerializationManager.cs" />
-     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Cc\BGCcCursorObjectEditor.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Utils\BGTreeView.cs" />
-     <Compile Include="Assets\1. YG\Oculus\AudioManager\Scripts\Audio\Editor\AudioManagerInspector.cs" />
-     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Utils\BGTableView.cs" />
-     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Curve\BGCurveEditorPoints.cs" />
-     <Compile Include="Assets\1. YG\Oculus\SampleFramework\Core\Video\Editor\AndroidVideoEditorUtil.cs" />
-     <Compile Include="Assets\1. YG\Oculus\AudioManager\Scripts\Audio\Editor\SoundFXRefPropertyDrawer.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Video\Editor\AndroidVideoEditorUtil.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Cc\BGCcTriangulate2DEditor.cs" />
      <Compile Include="Assets\2. ART_0_Hospital\06_Assets\VLights\Editor\VolumeLightManagerEditor.cs" />
-     <Compile Include="Assets\1. YG\Oculus\Spatializer\editor\ONSPPropagationGeometryEditor.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\CcInfra\BGCcChoseDrawer.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Settings\BGCurveSettingsForEditorWindow.cs" />
-     <Compile Include="Assets\1. YG\Oculus\LipSync\Editor\OVRNamedArrayPropertyDrawer.cs" />
-     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Curve\BGCurveEditor.cs" />
-     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Cc\BGCcMathEditor.cs" />
-     <Compile Include="Assets\1. YG\Oculus\Spatializer\editor\ONSPReflectionCustomGUI.cs" />
-     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\CcInfra\BGCcTreeView.cs" />
-     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Infra\BGPropertyDrawer.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Cc\BGCcCursorObjectTranslateEditor.cs" />
-     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Utils\BGStartUp.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Settings\BGCurveSettingsSO.cs" />
-     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Overlay\BGSceneViewOverlayMenu.cs" />
-     <Compile Include="Assets\1. YG\Oculus\SampleFramework\Core\Locomotion\Scripts\Editor\TeleportTransitionWarpInspector.cs" />
-     <Compile Include="Assets\1. YG\Oculus\Spatializer\editor\ONSPPropagationMaterialEditor.cs" />
-     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Overlay\BGSceneViewOverlayPointAddSnap2D.cs" />
-     <Compile Include="Assets\1. YG\Oculus\AudioManager\Scripts\Audio\Editor\MixerSnapshotPropertyDrawer.cs" />
-     <Compile Include="Assets\1. YG\Oculus\LipSync\Editor\OVRLipSyncTool.cs" />
-     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Curve\BGCurveEditorPoint.cs" />
-     <Compile Include="Assets\1. YG\Oculus\Spatializer\editor\ONSPAudioPluginUpdaterStub.cs" />
+     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Utils\BGStartUp.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\Editor\TeleportTransitionWarpInspector.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Video\Editor\MediaPlayerImageEditor.cs" />
      <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\CcInfra\BGCcChoseWindow.cs" />
-     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\CcInfra\BGCcEditor.cs" />
-     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Cc\BGCcCursorEditor.cs" />
-     <Compile Include="Assets\1. YG\BansheeGz\BGCurve\Scripts\Editor\Curve\BGNewPointPositionManager.cs" />
      <Compile Include="Assets\2. ART_0_Hospital\06_Assets\VLights\Editor\VolumeLightCreator.cs" />
     <Reference Include="UnityEngine">
         <HintPath>E:\Program Files\Unity\Hub\Editor\2020.3.20f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
@@ -361,28 +343,28 @@
         <HintPath>E:\Program Files\Unity\Hub\Editor\2020.3.20f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\PackageCache\com.unity.collab-proxy@1.11.2\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
+        <HintPath>E:\GitHub\Jungsub\Library\PackageCache\com.unity.collab-proxy@1.11.2\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\PackageCache\com.unity.collab-proxy@1.11.2\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+        <HintPath>E:\GitHub\Jungsub\Library\PackageCache\com.unity.collab-proxy@1.11.2\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\PackageCache\com.unity.analytics@3.6.11\AnalyticsStandardEvents\Unity.Analytics.StandardEvents.dll</HintPath>
+        <HintPath>E:\GitHub\Jungsub\Library\PackageCache\com.unity.analytics@3.6.11\AnalyticsStandardEvents\Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\PackageCache\com.unity.analytics@3.6.11\Unity.Analytics.Editor.dll</HintPath>
+        <HintPath>E:\GitHub\Jungsub\Library\PackageCache\com.unity.analytics@3.6.11\Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\PackageCache\com.unity.collab-proxy@1.11.2\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+        <HintPath>E:\GitHub\Jungsub\Library\PackageCache\com.unity.collab-proxy@1.11.2\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\PackageCache\com.unity.analytics@3.6.11\Unity.Analytics.Tracker.dll</HintPath>
+        <HintPath>E:\GitHub\Jungsub\Library\PackageCache\com.unity.analytics@3.6.11\Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="unityplastic">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\PackageCache\com.unity.collab-proxy@1.11.2\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
+        <HintPath>E:\GitHub\Jungsub\Library\PackageCache\com.unity.collab-proxy@1.11.2\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
+        <HintPath>E:\GitHub\Jungsub\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
         <HintPath>E:\Program Files\Unity\Hub\Editor\2020.3.20f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\mscorlib.dll</HintPath>
@@ -732,119 +714,303 @@
     <Reference Include="System.Xml.XPath.XDocument">
         <HintPath>E:\Program Files\Unity\Hub\Editor\2020.3.20f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Xml.XPath.XDocument.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.TestRunner">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\UnityEngine.TestRunner.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor.TestRunner">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\UnityEditor.TestRunner.dll</HintPath>
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\UnityEditor.TestRunner.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TestRunner">
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Purchasing.Common">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\Purchasing.Common.dll</HintPath>
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\Purchasing.Common.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.Tilemap.Editor">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll</HintPath>
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Purchasing">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\UnityEngine.Purchasing.dll</HintPath>
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\UnityEngine.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualStudio.Editor">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Timeline">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Purchasing.SecurityStub">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityStub.dll</HintPath>
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityStub.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Advertisements">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\UnityEngine.Advertisements.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.Sprite.Editor">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Postprocessing.Editor">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll</HintPath>
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\UnityEngine.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.PlasticSCM.Editor">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Analytics">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\Analytics.dll</HintPath>
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\Analytics.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll</HintPath>
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.Purchasing.SecurityCore">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityCore.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Postprocessing.Runtime">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll</HintPath>
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Purchasing.Codeless">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\UnityEngine.Purchasing.Codeless.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Timeline.Editor">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.Purchasing.Stores">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\UnityEngine.Purchasing.Stores.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.XR.LegacyInputHelpers">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\UnityEngine.Purchasing.Codeless.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Monetization">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\UnityEngine.Monetization.dll</HintPath>
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\UnityEngine.Monetization.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Tilemap.Editor">
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualStudio.Editor">
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Timeline">
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Postprocessing.Editor">
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PlasticSCM.Editor">
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Purchasing.SecurityCore">
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityCore.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Postprocessing.Runtime">
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.XR.LegacyInputHelpers">
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Timeline.Editor">
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Purchasing.Stores">
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\UnityEngine.Purchasing.Stores.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.XR.LegacyInputHelpers">
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\UnityEditor.Purchasing.dll</HintPath>
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll</HintPath>
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Advertisements.Editor">
-        <HintPath>C:\Users\sukyk\OneDrive\바탕 화면\Portfolio\Jungsub_Final\Library\ScriptAssemblies\UnityEngine.Advertisements.Editor.dll</HintPath>
+        <HintPath>E:\GitHub\Jungsub\Library\ScriptAssemblies\UnityEngine.Advertisements.Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{691d2dc5-7018-472e-38eb-d50e4c649e54}</Project>
+      <Project>{e35dffcd-4559-b584-7ece-0b3dd8ce9ce5}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
-    <ProjectReference Include="Oculus.VR.Editor.csproj">
-      <Project>{67915669-d68e-7544-cf87-09174d0f5fbe}</Project>
-      <Name>Oculus.VR.Editor</Name>
+    <ProjectReference Include="Meta.Voice.Samples.LightTraits.csproj">
+      <Project>{72b8029d-91e6-1bb4-fcf9-f70117308b2a}</Project>
+      <Name>Meta.Voice.Samples.LightTraits</Name>
     </ProjectReference>
-    <ProjectReference Include="Oculus.VR.Scripts.Editor.csproj">
-      <Project>{20d51239-3c05-ae3d-82ec-fa4952bb48b4}</Project>
-      <Name>Oculus.VR.Scripts.Editor</Name>
+    <ProjectReference Include="Meta.VoiceSDK.Mic.WebGL.csproj">
+      <Project>{838fcf8d-7276-a539-27f7-9210f67f918c}</Project>
+      <Name>Meta.VoiceSDK.Mic.WebGL</Name>
+    </ProjectReference>
+    <ProjectReference Include="AssistantCoreSDKEditor.csproj">
+      <Project>{514850d1-c23f-e56d-b6f4-b8611231e0d0}</Project>
+      <Name>AssistantCoreSDKEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.AudioManager.csproj">
+      <Project>{4e39eba9-fe07-5fd5-fc30-998ac028a9db}</Project>
+      <Name>Oculus.AudioManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.VoiceSDK.Mic.Common.csproj">
+      <Project>{94c054a8-56cf-c151-4b5b-e5a802953f60}</Project>
+      <Name>Meta.VoiceSDK.Mic.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Interaction.csproj">
+      <Project>{8379c355-6229-e383-92a8-6d62993540ad}</Project>
+      <Name>Oculus.Interaction</Name>
+    </ProjectReference>
+    <ProjectReference Include="AssistantCoreSDKRuntime.csproj">
+      <Project>{1f287933-a3ce-02d8-df93-c68f04b5cdd5}</Project>
+      <Name>AssistantCoreSDKRuntime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.AudioManager.Utils.Editor.csproj">
+      <Project>{cf747c08-e737-06b3-fa0d-c889f3ca7753}</Project>
+      <Name>Oculus.AudioManager.Utils.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.Conduit.csproj">
+      <Project>{f0ebb432-e0f3-ae02-4839-5fca8e49f29f}</Project>
+      <Name>Meta.WitAi.Conduit</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Interaction.OVR.csproj">
+      <Project>{517bfe34-a50f-881e-33a1-b55446e42b42}</Project>
+      <Name>Oculus.Interaction.OVR</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.Hub.Editor.csproj">
+      <Project>{be3e160c-08a8-3d9b-4109-857c05669184}</Project>
+      <Name>Meta.Voice.Hub.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.csproj">
+      <Project>{f7016441-516b-358e-a947-428170acaf96}</Project>
+      <Name>Meta.WitAi</Name>
+    </ProjectReference>
+    <ProjectReference Include="Facebook.Wit.Dictation.Editor.csproj">
+      <Project>{4ae48022-3567-e48c-dbb8-fb29d10d0aa8}</Project>
+      <Name>Facebook.Wit.Dictation.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.VSDKHub.Editor.csproj">
+      <Project>{d10be111-71dd-4329-0a77-9bb569b25ac1}</Project>
+      <Name>Meta.Voice.VSDKHub.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Facebook.Wit.Dictation.csproj">
+      <Project>{96b9e5b2-92a3-9304-8cb7-f2bd82ee4160}</Project>
+      <Name>Facebook.Wit.Dictation</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.Samples.TTSVoices.csproj">
+      <Project>{2e47ef3a-230e-0480-d01e-41174bc1dab4}</Project>
+      <Name>Meta.Voice.Samples.TTSVoices</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.VR.csproj">
-      <Project>{47450151-e2a2-6719-a1f7-fb777cc767f5}</Project>
+      <Project>{2443e62b-c5ec-9128-078a-c17dc7c0bd22}</Project>
       <Name>Oculus.VR</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.AudioManager.Audio.Editor.csproj">
+      <Project>{6075b1ab-f9bd-ea9c-251e-456941bb5901}</Project>
+      <Name>Oculus.AudioManager.Audio.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAI.Lib.Editor.csproj">
+      <Project>{4ec96615-904d-77e3-7c75-fd499e2776b4}</Project>
+      <Name>Meta.WitAI.Lib.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Spatializer.Editor.csproj">
+      <Project>{3026d590-a12d-17ec-1e56-c4058486f37e}</Project>
+      <Name>Oculus.Spatializer.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.TTS.csproj">
+      <Project>{627e2bce-c5a2-96d9-ec66-e60651502b66}</Project>
+      <Name>Meta.WitAi.TTS</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.Samples.Chess.csproj">
+      <Project>{668b2888-8bc1-50b4-09af-e0a68700a9c3}</Project>
+      <Name>Meta.Voice.Samples.Chess</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.TTS.Editor.csproj">
+      <Project>{19b70869-2884-a91d-244b-6b5c8b3a4015}</Project>
+      <Name>Meta.WitAi.TTS.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Interaction.OVR.Samples.csproj">
+      <Project>{f9f3ab87-6c4d-1bd6-d736-7481ff29d8db}</Project>
+      <Name>Oculus.Interaction.OVR.Samples</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Platform.Editor.csproj">
+      <Project>{1357e26c-7c0f-3b0a-17e6-648e23178971}</Project>
+      <Name>Oculus.Platform.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.VR.Editor.csproj">
+      <Project>{ac1ec2a2-3bb6-295b-191f-290890a1d918}</Project>
+      <Name>Oculus.VR.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Interaction.Samples.Editor.csproj">
+      <Project>{37ce6f14-7fca-9714-39e3-8623bf78352c}</Project>
+      <Name>Oculus.Interaction.Samples.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.Samples.ShapesConduit.csproj">
+      <Project>{b7c18f53-2417-25ca-aad7-7622ba07c6d1}</Project>
+      <Name>Meta.Voice.Samples.ShapesConduit</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Interaction.Editor.csproj">
+      <Project>{1479a84f-d4c9-6fc5-29af-aa54da19d107}</Project>
+      <Name>Oculus.Interaction.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="VoiceSDK.Dictation.Samples.csproj">
+      <Project>{105e0079-dea4-9db7-0714-fafbec3907c6}</Project>
+      <Name>VoiceSDK.Dictation.Samples</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.VR.Scripts.Editor.csproj">
+      <Project>{e67acd75-8798-876a-da0f-fc4235801035}</Project>
+      <Name>Oculus.VR.Scripts.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Spatializer.csproj">
+      <Project>{2629f9be-eecc-8474-a99f-eef6ca1bc4d9}</Project>
+      <Name>Oculus.Spatializer</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.VoiceSDK.Mic.Other.csproj">
+      <Project>{48315cf5-9f3f-038d-d08f-b27bcfe28c36}</Project>
+      <Name>Meta.VoiceSDK.Mic.Other</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Platform.csproj">
+      <Project>{65b897ac-29a4-3da5-e35f-1e2ac79cd45e}</Project>
+      <Name>Oculus.Platform</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.Conduit.Editor.csproj">
+      <Project>{2d1f8154-db03-cd69-fb94-cec0d2ee07cf}</Project>
+      <Name>Meta.WitAi.Conduit.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="VoiceSDK.Editor.csproj">
+      <Project>{00c9621e-ce30-d233-eab4-8210060f521a}</Project>
+      <Name>VoiceSDK.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.Samples.LiveUnderstanding.csproj">
+      <Project>{c5b3262f-cf20-d140-01ca-c1ca47670bea}</Project>
+      <Name>Meta.Voice.Samples.LiveUnderstanding</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.Samples.Shapes.csproj">
+      <Project>{6af8a581-5f42-f16e-5b00-30c79e8838c8}</Project>
+      <Name>Meta.Voice.Samples.Shapes</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Interaction.InterfaceSupport.csproj">
+      <Project>{7222eae0-909a-38a9-bed1-32bf1a2396a2}</Project>
+      <Name>Oculus.Interaction.InterfaceSupport</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.Editor.csproj">
+      <Project>{4e57abc2-38b6-83d2-cea0-f05cc504537f}</Project>
+      <Name>Meta.WitAi.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Interaction.OVR.Editor.csproj">
+      <Project>{c8d85709-db71-14d3-e23b-a7808cc23db8}</Project>
+      <Name>Oculus.Interaction.OVR.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="VoiceSDK.Dictation.Editor.csproj">
+      <Project>{f62773c4-f949-58f2-9911-01d9be25c4ee}</Project>
+      <Name>VoiceSDK.Dictation.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="VoiceSDK.Dictation.Runtime.csproj">
+      <Project>{75c31886-105d-cf59-ee9c-13606c935791}</Project>
+      <Name>VoiceSDK.Dictation.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.LipSync.Editor.csproj">
+      <Project>{73c593cb-1bef-fbae-accf-4b988bd96d0d}</Project>
+      <Name>Oculus.LipSync.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.LipSync.csproj">
+      <Project>{83dd407e-f82c-f8c8-d83e-d6e14371d9ef}</Project>
+      <Name>Oculus.LipSync</Name>
+    </ProjectReference>
+    <ProjectReference Include="VoiceSDK.Runtime.csproj">
+      <Project>{0fdc2096-3c05-7cb9-3529-2835fa0547d7}</Project>
+      <Name>VoiceSDK.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.Lib.csproj">
+      <Project>{8cb4bc44-96b8-14e3-c63e-80d4236f723c}</Project>
+      <Name>Meta.WitAi.Lib</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.Hub.Runtime.csproj">
+      <Project>{3f94c10b-09c6-fa44-222b-6069e94edffc}</Project>
+      <Name>Meta.Voice.Hub.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.Samples.BuiltInTimer.csproj">
+      <Project>{da5cdbc7-1d91-90a0-1f64-ffdbff8ed4e3}</Project>
+      <Name>Meta.Voice.Samples.BuiltInTimer</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
